@@ -3,10 +3,10 @@
 Repository contains a slection of Bash shell scripts used during my MSc project for data management, merging and QC. Pertinent to AntiSMASH GenBank and Biosynthetic MetaSpades outputs. 
 
 ## Scripts useful in conjunction with
--AntiSMASH 
+****-AntiSMASH****
 <br /> https://antismash.secondarymetabolites.org/#!/start 
 <br />https://doi.org/10.1093/nar/gkab335  
--Biosynthteic MetaSpades 
+****-Biosynthteic MetaSpades****
 <br />https://github.com/ablab/spades 
 <br />https://dx.doi.org/10.1101%2Fgr.213959.116
 
