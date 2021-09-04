@@ -6,7 +6,7 @@ Repository contains a slection of Bash shell scripts used during my MSc project 
 ****-AntiSMASH****
 <br /> https://antismash.secondarymetabolites.org/#!/start 
 <br />https://doi.org/10.1093/nar/gkab335  
-****-Biosynthteic MetaSpades****
+****-Biosynthetic MetaSpades****
 <br />https://github.com/ablab/spades 
 <br />https://dx.doi.org/10.1101%2Fgr.213959.116
 
