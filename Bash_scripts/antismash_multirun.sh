@@ -5,7 +5,7 @@
 #File processing 
 
 #Description: 
-#Runs AntiSmash on Bisoynthetic MetaSpades processed fasta files, will run on each 'genecluster' fasta iteratively 
+#Runs AntiSmash on Biosynthetic MetaSpades processed fasta files, will run on each 'genecluster' fasta iteratively 
 
 #Change file path
 for file in /media/gavin/external_drive/thesis_samples/biosynthmeta_processed_1-100/biosynthmeta_processed_1-10/results_*/contigs/ER*/; do
