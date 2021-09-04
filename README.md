@@ -7,10 +7,25 @@ Repository contains a slection of Bash shell scripts used during my MSc project 
 Merges GenBank files in respective AntiSMASH output folder into a single file.
 
 ### 2. antismash_multirun.sh
-Runs AntiSMASH analysis tool on Biosynthetic MetaSpades processed fasta files; will run on each 'genecluster' fasta iteratively
+Runs AntiSMASH analysis tool on Biosynthetic MetaSpades processed fasta files; will run on each 'genecluster' fasta iteratively.
 
 ### 3. fasta_merge.sh
-Merges Biosynthetic MetaSpades output fasta files to one file form their subdirectories and also pases out fasta read length data
+Merges Biosynthetic MetaSpades output fasta files to one file form their subdirectories and also pases out fasta read length data.
 
 ### 4. filesample_parse.sh
 Compiles filename accessions together into one txt file from their base file name if in directory with several result folders and shows sample names used.
+
+### 5. gbk_counter.sh
+Useful during GenBank file management; counts number of GenBank files in curent directory.
+
+### 6. gbk_read_counter.sh
+Collects GenBank count data outputs from AntiSMASH into one file, breaks by common parsable marker and includes sample origin for use in analysis.
+
+### 7. merge_scaffolds.sh
+Merge scaffold fasta outputs from Biosynthetic MetaSpades into one unified file. Can be used further on fasta files with tweaking.
+
+### 8. metaspades_fasta_merge.sh
+Collects fastas together into one file, breaks by common parsable marker and includes fasta origin filename
+
+### 9. remove_empty.sh
+Removes empty files in all subdirectories; clears away and identifies failed ANtiSMASH/ Biosynthetic MetaSpades analyses 
